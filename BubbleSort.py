@@ -14,4 +14,3 @@ while somethingHapened :
 
     print P
         
-print P
